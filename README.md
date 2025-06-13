@@ -1,12 +1,12 @@
 
-````markdown
+
 # 🎓 Student API
 
 A lightweight RESTful API for managing students.
 
 ## 🚀 Endpoints
 
-### ➕ Create Student
+### 🔍 Create Student
 - **POST** `/api/students`
 - **Body**:
 ```json
